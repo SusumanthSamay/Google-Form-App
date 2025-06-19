@@ -57,4 +57,41 @@ This project is a Google Forms clone built using Java Spring Boot for the backen
 - Maven
 
 ## License
-This project is for educational purposes only and is not affiliated with Google.
+THIS PRoject IS Done by Sususmanth Samay.
+
+
+##TECH STACK
+**Backend (Spring Boot)**
+Java 17 - Programming language
+Spring Boot 3.5.0 - Application framework
+Spring Data JPA - For database operations
+Spring Web - For building RESTful web services
+Hibernate - ORM framework (included with Spring Data JPA)
+H2 Database - In-memory database (commonly used with Spring Boot by default)
+MYSQL Driver
+**Frontend (React)**
+React 19 - JavaScript library for building user interfaces
+React DOM - For DOM manipulation in React
+React Router DOM 7 - For client-side routing
+Axios - For making HTTP requests to the backend
+React Icons - For using icons in the UI
+Build Tools & Development
+Vite - Next generation frontend tooling
+Maven - Build automation and dependency management (Backend)
+Node.js & npm - JavaScript runtime and package manager (Frontend)
+**Styling**
+Tailwind CSS - Utility-first CSS framework
+PostCSS - For processing CSS with Tailwind
+Autoprefixer - For CSS vendor prefixing
+**Development Tools**
+ESLint - For code linting
+TypeScript - For type checking (though not heavily used based on the config)
+Spring Boot DevTools - For faster development restarts
+API
+RESTful API - For communication between frontend and backend
+JSON - Data interchange format
+This stack provides a modern, full-stack solution with a robust backend and a responsive frontend, 
+
+
+
+
